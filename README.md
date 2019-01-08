@@ -3,6 +3,7 @@
 Setup:
 
 >python3.7 -m venv .venv
+
 >vi .venv/bin/activate
 
 Setup local variable: add darksky key to local environment variable
